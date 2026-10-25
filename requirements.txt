@@ -1,0 +1,9 @@
+
+streamlit
+matplotlib
+reportlab
+cantera
+CoolProp
+scipy
+numpy
+pandas
